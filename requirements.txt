@@ -7,7 +7,5 @@ opencv-python
 numpy
 pdfplumber
 googletrans==4.0.0-rc1
-deep-translator
-pdfplumber 
 
 
