@@ -1,11 +1,12 @@
-streamlit 
-pdf2image 
-pytesseract 
-python-docx 
-pillow
-opencv-python
-numpy
-pdfplumber
-googletrans==4.0.0-rc1
+# Core dependencies
+streamlit==1.31.1
+pdf2image==1.16.3
+pytesseract==0.3.10
+Pillow==10.2.0
+python-docx==1.0.1
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+googletrans==3.1.0a0
 
-
+# Additional dependencies for pdf2image
+poppler-utils==0.1.0
